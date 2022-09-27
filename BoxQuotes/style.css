@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  font-family: 'Gravitas One', cursive;
+  font-family: 'IBM Plex mono', monospace;
+  font-family: 'Kavoon', cursive;
+  font-family: 'Lacquer', cursive;
+  font-family: 'Trade Winds', cursive;
+  font-family: 'Bebas Neue', cursive;
+  font-family: 'Abril Fatface', cursive;
+}
+
+canvas {
+  display: block;
+}
